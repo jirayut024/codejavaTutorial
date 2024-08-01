@@ -1,7 +1,6 @@
 public class result1to100 {
     public static void main(String[] args) {
-        int non = 0;
-        int ball = 1;
+        int non = 0, ball = 1;
         while (ball <= 100){
            non += ball;
             ball++ ;
